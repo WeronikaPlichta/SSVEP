@@ -5,9 +5,10 @@ import numpy as np
 import scipy.signal as ss
 from model import *
 
-''''''
-Originally includes a part of code responsible for connecting to amplifier and taking packets of samples from EEG set in real time - not showed here, because this part wasn't written by me.
-''''''
+###
+#Originally includes a part of code responsible for connecting to amplifier and taking packets of samples from EEG set in real time - not showed here, 
+#because this part wasn't written by me.
+###
 
 
 
