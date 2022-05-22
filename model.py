@@ -6,6 +6,7 @@ from sklearn import svm
 from sklearn import linear_model
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
+
 def model():
     rms = np.load('nowa_macierz.npy')
     y = np.load('y.npy')
